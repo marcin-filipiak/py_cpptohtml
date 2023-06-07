@@ -1,2 +1,2 @@
 # py_cpptohtml
-Convert C++ source code to HTML
+Syntax Highlighter for C and C++.
