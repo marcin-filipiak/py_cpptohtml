@@ -1,2 +1,2 @@
 # py_cpptohtml
-Syntax Highlighter for C and C++.
+The script reads the file in c++ and generates the html code with syntax coloring.
